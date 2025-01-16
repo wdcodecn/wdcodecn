@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 | [MkDocs](https://www.mkdocs.org/)       | ✅        | ✅        | ⭐        | ⭐⭐       | 技术文档                      |
 | [Docusaurus](https://docusaurus.io/)   | ✅        | ✅        | ✅        | ⭐⭐⭐      | 大型文档网站                  |
 | [Hugo](https://gohugo.io/)         | ✅        | ✅        | ⭐⭐       | ⭐⭐       | 博客、技术文档                |
+| [Hexo](https://hexo.io/zh-cn/)         | ✅        | ✅        | ⭐⭐       | ⭐⭐       | 博客、技术文档                |
 | [Slidev](https://sli.dev/)       | ✅        | ✅        | ⭐⭐       | ⭐⭐       | 演示文档                      |
 | [Zola](https://www.getzola.org/)         | ✅        | ✅        | ⭐⭐       | ⭐⭐       | 小型文档、博客                |
 
